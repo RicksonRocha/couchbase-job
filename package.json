@@ -1,0 +1,17 @@
+{
+  "name": "shopcustomer",
+  "version": "1.0.0",
+  "description": "shop customer data",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Rickson Rocha",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "couchbase": "^4.2.1"
+  }
+}
